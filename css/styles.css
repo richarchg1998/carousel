@@ -11,7 +11,7 @@
 
 .container-slide {
     width: 80%;
-    margin: 2rem auto;
+    margin: auto;
     display: flex;
     position: relative;
     border: 1px solid #000;
